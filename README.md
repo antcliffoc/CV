@@ -25,11 +25,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (August to November 2019)
 
-###### Works in Progress:
+###### Coding Practices:
 - *OOP, TDD, MVC, DDD*
 - *Agile/XP*
-- *Ruby, Rails, JavaScript*
-- *RSpec, Jasmine*
+
+
+###### Coding Technologies touched:
+|  Languages  |  Frameworks  |  Testing  |
+| ----------- | -----------  | --------- |
+| Ruby | Rails | RSpec |
+| JavaScript | Sinatra | Capybara |
+| Python | React | Jasmine |
+| SQL | JQuery | Jest |
+| | Flask | Cypress |
+| | Postgresql | Unittest |
+| | Active Record | Pytest|
+| | SQAlchemy | |
 
 #### University of Oxford / Pembroke College (2012-18)
 
