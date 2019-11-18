@@ -25,19 +25,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### [Acebook](https://github.com/DanGyi23/acebook)
 ######Tech Stack:
-| Database | Backend | Frontend |
-| -------- | ------- | -------- |
-| Postgresql | Ruby on Rails | JavaScript |
 
-reflections:  
+| Database | Backend | Frontend |
+| -------- | :-------: | --------: |
+| Postgresql | Ruby on Rails | JavaScript |
+| Active Record | | Bootstrap |
 
 #### [Consumeless](https://github.com/xiaofeizhang19/ConsumeLess)
 #####Tech Stack:
-| Database | Backend | Frontend |
-| -------- | ------- | -------- |
-| Postgresql | Python Flask | JavaScript React|
 
-reflections:  
+| Database | Backend | Frontend |
+| -------- | :-------: | --------: |
+| Postgresql | Python Flask | JavaScript React|
+| SQAlchemy | | Material UI |
 
 ## Education
 
@@ -47,10 +47,9 @@ reflections:
 - *OOP, TDD, MVC, DDD*
 - *Agile/XP*
 
-
 ###### Coding Technologies touched:
 |  Languages  |  Frameworks  |  Testing  |
-| ----------- | -----------  | --------- |
+| ----------- | :-----------:  | ---------: |
 | Ruby | Rails | RSpec |
 | JavaScript | Sinatra | Capybara |
 | Python | React | Jasmine |
@@ -66,20 +65,34 @@ reflections:
   - Domus Scholar for academic excellence
 - 2012-2014 Studied Chemistry
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+|Human Sciences Breakdown|
+|:----------:|
+|Genetics|
+|Physiology|
+|Demography|
+|Psychology|
+|Anthropology|
+|Sociology|
+|Human Evolution|
+|Animal Behaviour|
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**IQ Accommodation** (March-April 2019)    
+*Revenue Management Intern*  
+- Created proof of concepts for forecasting and tracking promotional expenditure.
+- Analysed asset performance to identify Dynamic pricing opportunities.
+- Extensive excel work.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**UBS** (February 2019)   
+*Multi Asset Client Sales Work Experience*  
+- Two weeks rotation around Sales in Fixed Income and Equity.
+- Presented analysis on the Australian Housing Market and identified appropriate trade opportunities.
+
+**Oxford University Amateur Boxing Club** (2016)   
+*Head of Commercial Team*  
+- Lead a 3 person team responsible for negotiating commercial partners for a club of over 150 members.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Currently exploring CG and FX with Blender. Also a big fan pottery.
