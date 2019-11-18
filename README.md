@@ -1,8 +1,10 @@
 ## Ollie Antcliff
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm a problem solving junkie with a passion for making. I've recently completed Makers, an intensive software engineering bootcamp and am enjoying creating my own personal applications. I love clear and clean code. And any potential to overlap tech to compliment/enhance human behaviours really gets my gears grinding!
 
-## Skills - TBC from Github as you go along
+<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
+
+<!-- ## Skills - TBC from Github as you go along
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -19,7 +21,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Projects
 
