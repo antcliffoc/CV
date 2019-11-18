@@ -1,4 +1,4 @@
-## Ollie Antcliff
+## Oliver Antcliff
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -21,44 +21,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Projects
-
-#### [Acebook](https://github.com/DanGyi23/acebook)
-######Tech Stack:
-| Database | Backend | Frontend |
-| -------- | ------- | -------- |
-| Postgresql | Ruby on Rails | JavaScript |
-
-reflections:  
-
-#### [Consumeless](https://github.com/xiaofeizhang19/ConsumeLess)
-#####Tech Stack:
-| Database | Backend | Frontend |
-| -------- | ------- | -------- |
-| Postgresql | Python Flask | JavaScript React|
-
-reflections:  
-
 ## Education
 
 #### Makers Academy (August to November 2019)
 
-###### Coding Practices:
+###### Works in Progress:
 - *OOP, TDD, MVC, DDD*
 - *Agile/XP*
-
-
-###### Coding Technologies touched:
-|  Languages  |  Frameworks  |  Testing  |
-| ----------- | -----------  | --------- |
-| Ruby | Rails | RSpec |
-| JavaScript | Sinatra | Capybara |
-| Python | React | Jasmine |
-| SQL | JQuery | Jest |
-| | Flask | Cypress |
-| | Postgresql | Unittest |
-| | Active Record | Pytest|
-| | SQAlchemy | |
+- *Ruby, Rails, JavaScript*
+- *RSpec, Jasmine*
 
 #### University of Oxford / Pembroke College (2012-18)
 
