@@ -97,4 +97,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 
-Currently exploring CG and FX with Blender. Also a big fan pottery.
+Currently exploring CG and FX with Blender. Here's a doughnut i made earlier:
+
+![](Doughnut.png)
+Also a big fan pottery.
