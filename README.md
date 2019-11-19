@@ -25,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects
 
-#### [Acebook](https://github.com/DanGyi23/acebook)
+- #### [Acebook](https://github.com/DanGyi23/acebook)
 ##### Tech Stack:
 
 | Database | Backend | Frontend |
@@ -33,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | Postgresql | Ruby on Rails | JavaScript |
 | Active Record | | Bootstrap |
 
-#### [Consumeless](https://github.com/xiaofeizhang19/ConsumeLess)
+- #### [Consumeless](https://github.com/xiaofeizhang19/ConsumeLess)
 ##### Tech Stack:
 
 | Database | Backend | Frontend |
