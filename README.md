@@ -1,8 +1,6 @@
 ## Ollie Antcliff
 
-I'm a problem solving junkie with a passion for making. I've recently completed Makers, an intensive software engineering bootcamp and am enjoying creating my own personal applications. I love clear and clean code. And any potential to overlap tech to compliment/enhance human behaviours really gets my gears grinding!
-
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
+A Human Sciences graduate with a passion for making. I've recently completed Makers, an intensive software engineering bootcamp and am enjoying creating my own personal applications. I have built fullstack websites with a variety of technologies and always enjoy experimenting with new languages and frameworks. It is my goal to influence my software with my academic background, focusing on human and behavioural driven solutions.
 
 <!-- ## Skills - TBC from Github as you go along
 
