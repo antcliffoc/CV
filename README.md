@@ -32,6 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | Active Record | | Bootstrap |
 
 #### [Consumeless](https://github.com/xiaofeizhang19/ConsumeLess)
+#### [personal changes since finishing](https://github.com/antcliffoc/ConsumeLess-frontend)
 ##### Tech Stack:
 
 | Database | Backend | Frontend |
