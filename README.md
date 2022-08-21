@@ -55,10 +55,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | JavaScript | Sinatra | Capybara |
 | Python | React | Jasmine |
 | SQL | JQuery | Jest |
-| | Flask | Cypress |
-| | Postgresql | Unittest |
+| C# | Flask | Cypress |
+| VB.net | Postgresql | Unittest |
 | | Active Record | Pytest|
-| | SQAlchemy | |
+| | SQAlchemy | MSUnitTest |
+| | SQL Server | |
+| | MSSMS | |
+| | DotNet | |
+| | Blazor | |
+| | DotNet Core | |
 
 #### University of Oxford / Pembroke College (2012-18)
 
