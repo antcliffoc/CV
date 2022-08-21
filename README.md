@@ -1,6 +1,6 @@
 ## Ollie Antcliff
 
-A Human Sciences graduate with a passion for making. I've recently completed Makers, an intensive software engineering bootcamp and am enjoying creating my own personal applications. I have built fullstack websites with a variety of technologies and always enjoy experimenting with new languages and frameworks. It is my goal to influence my software with my academic background, focusing on human and behavioural driven solutions.
+Currently working as a Full-Stack Web Developer in Bristol - looking to move into London and join a new project with more influence and ownership over the product. I have built fullstack websites with a variety of technologies and always enjoy experimenting with new languages and frameworks. It is my goal to influence my software with my academic background, focusing on human and behavioural driven solutions. 
 
 <!-- ## Skills - TBC from Github as you go along
 
